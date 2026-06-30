@@ -1,0 +1,226 @@
+================================================================================
+AURACELLE POLARIS · UN-SPIDER EDITION
+GitHub Repository Deployment Package
+================================================================================
+
+COMPLETE PACKAGE CONTENTS:
+
+1. index.html (4.4 MB)
+   - Main playable Polaris UN-SPIDER Edition simulation
+   - Ready to deploy directly to GitHub Pages
+   - No compilation or build process required
+
+2. README.md (12 KB, 218 lines)
+   - Platform overview and feature documentation
+   - Six crisis scenarios and gameplay instructions
+   - UN-SPIDER Edition highlights
+   - WSIS Action Lines and SDG alignment
+   - How to use for conference and training
+   - Links and contact information
+
+3. LICENSE (4.1 KB, 84 lines)
+   - Proprietary software with academic use exceptions
+   - UN agency use explicitly permitted
+   - Adversarial state restrictions
+   - Warranty disclaimer and liability limits
+   - Attribution requirements
+
+4. CITATION.md (6.5 KB, 184 lines)
+   - 6 major academic citation formats (BibTeX, APA, MLA, Chicago, Harvard)
+   - Government and policy document citations
+   - Presentation and workshop citation guidance
+   - UN-SPIDER training material attribution
+   - Ready-to-copy formats for papers, theses, presentations
+
+5. SECURITY.md (11 KB, 285 lines)
+   - Security overview and privacy guarantees
+   - No data collection or transmission
+   - Access control and conference security
+   - Responsible use policy
+   - Responsible disclosure procedures
+   - Known limitations and disclaimers
+   - Incident response plan
+   - GDPR and CCPA compliance
+
+6. DEPLOYMENT.md (12 KB, 360 lines)
+   - Step-by-step GitHub Pages deployment (5 minutes)
+   - UN-SPIDER conference integration options
+   - Access code customization for different events
+   - Custom domain setup instructions
+   - Monitoring and analytics guidance
+   - Troubleshooting common issues
+   - Pre-launch checklist
+
+7. .nojekyll (0 bytes, hidden file)
+   - Tells GitHub Pages to skip Jekyll processing
+   - Ensures static files serve correctly
+
+================================================================================
+QUICK START: DEPLOY IN 5 MINUTES
+================================================================================
+
+1. Create repository: github.com/new
+   - Name: Auracelle-Polaris-UN-SPIDER
+   - Public: Yes
+   - Don't initialize with README/license
+
+2. Clone locally:
+   git clone https://github.com/YOUR-USERNAME/Auracelle-Polaris-UN-SPIDER.git
+   cd Auracelle-Polaris-UN-SPIDER
+
+3. Copy all files from this package to the cloned directory
+
+4. Push to GitHub:
+   git add .
+   git commit -m "Initial commit: Auracelle Polaris UN-SPIDER Edition"
+   git push -u origin main
+
+5. Enable GitHub Pages:
+   - Repository Settings → Pages
+   - Source: Deploy from branch (main, /root)
+   - Save
+
+6. Visit your live URL:
+   https://YOUR-USERNAME.github.io/Auracelle-Polaris-UN-SPIDER/
+
+DONE! Share the URL + access code UNSPIDER2026! with conference participants.
+
+================================================================================
+FILE ORGANIZATION
+================================================================================
+
+All files go in the repository ROOT directory (not in subfolders):
+
+Auracelle-Polaris-UN-SPIDER/
+├── index.html          ← Main simulation (playable)
+├── README.md           ← Documentation
+├── LICENSE             ← Open source license
+├── CITATION.md         ← Citation formats
+├── SECURITY.md         ← Security policy
+├── DEPLOYMENT.md       ← Deployment guide
+└── .nojekyll           ← GitHub Pages configuration (hidden file)
+
+================================================================================
+KEY FEATURES
+================================================================================
+
+✓ Instant deployment (no build process)
+✓ No backend servers or databases required
+✓ Zero data collection or external tracking
+✓ Full HTTPS support (automatic)
+✓ Mobile-responsive design
+✓ 6 playable space governance scenarios
+✓ UN-SPIDER specific Scenario 06: Earth Observation Data Access
+✓ WSIS Action Lines alignment (C1, C5, C6, C7, C10, C11)
+✓ Access code gating (UNSPIDER2026!)
+✓ Agentic AI stress-testing of policy moves
+✓ Governance-Resilience cross-track diagnostic scoring
+✓ Actionable recommendations with institutional reform guidance
+
+================================================================================
+ACCESS CODE & CUSTOMIZATION
+================================================================================
+
+DEFAULT ACCESS CODE: UNSPIDER2026!
+
+To customize for a different event:
+1. Open index.html in a text editor
+2. Find line ~1005: if(code === 'UNSPIDER2026!')
+3. Replace UNSPIDER2026! with your code (keep the ! at the end)
+4. Save and push to GitHub
+
+Example custom codes:
+- WSIS2027PARIS!
+- UNOOSA_SPACE!
+- UNSPIDER_BEIJING!
+
+================================================================================
+CITATION & ATTRIBUTION
+================================================================================
+
+When using Polaris in publications or presentations:
+
+APA Format:
+Evans, G.-A. (2026). Auracelle Polaris: UN-SPIDER Edition space governance 
+wargaming intelligence platform (Version 2.0) [Computer software]. 
+Auracelle AI Governance Labs LLC. https://github.com/[USERNAME]/...
+
+BibTeX:
+@software{Evans2026PolarisUNSPIDER,
+  author    = {Evans, Grace-Alice},
+  title     = {Auracelle Polaris: UN-SPIDER Edition Space Governance Wargaming Intelligence Platform},
+  year      = {2026},
+  url       = {https://github.com/[USERNAME]/...},
+  version   = {2.0},
+}
+
+See CITATION.md for full citation guidance across all major formats.
+
+================================================================================
+SECURITY ASSURANCES
+================================================================================
+
+✓ No data collection or transmission
+✓ Client-side only (all processing in your browser)
+✓ No external JavaScript dependencies
+✓ No cookies or tracking technologies
+✓ No persistent storage of user data
+✓ GDPR and CCPA compliant
+✓ Unclassified and suitable for government/UN agency use
+✓ Responsible disclosure procedures in place
+✓ Regular security audits encouraged
+
+See SECURITY.md for detailed security policy.
+
+================================================================================
+SUPPORT & CONTACT
+================================================================================
+
+For questions, issues, or feedback:
+
+Email: grace.evans@auracelle.ai
+LinkedIn: https://www.linkedin.com/in/grace-alice-evans-5a9632a3
+Platform: https://auracelle.github.io/Auracelle-AI-Governance-Labs-Platform-Comms-Public
+Suite: https://auracelle.github.io/Auracelle-Suite-AI-Governance-Labs/
+
+For responsible security disclosure:
+See SECURITY.md for detailed procedures
+
+For deployment help:
+See DEPLOYMENT.md for comprehensive deployment and troubleshooting guide
+
+================================================================================
+VERSION INFORMATION
+================================================================================
+
+Polaris UN-SPIDER Edition: v2.0
+Package Date: June 2026
+Access Code: UNSPIDER2026!
+Conference: 11th Annual UN-SPIDER Conference on Resilient Futures, Beijing, 2026
+
+Enhancements in v2.0:
+✓ UN-SPIDER-specific Scenario 06 (Earth Observation Data Access Deadlock)
+✓ Login system with access code gating
+✓ WSIS Action Lines alignment
+✓ Enlarged move prompts for player guidance
+✓ Fixed login visibility glitches
+✓ Improved session management
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. READ: DEPLOYMENT.md for step-by-step GitHub Pages deployment
+2. DEPLOY: Follow the 5-minute quick start above
+3. TEST: Log in with UNSPIDER2026! and play Scenario 06
+4. SHARE: Send your live URL + access code to conference participants
+5. FACILITATE: Use Polaris for workshops, training, or self-paced learning
+6. CITE: Use CITATION.md formats if publishing results
+
+================================================================================
+
+Questions? Email grace.evans@auracelle.ai
+
+Good luck with UN-SPIDER 2026! 🚀
+
+================================================================================
